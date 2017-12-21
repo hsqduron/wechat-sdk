@@ -123,10 +123,10 @@ class WechatConfig
 	 * 第三方平台配置
 	 * @var unknown
 	 */
-	const COMPONENT_APPID          = 'wx93e6008f42d116dc';
-	const COMPONENT_APPSECRET      = 'a632257a31089d3699ad0519d3d69730';
-	const COMPONENT_TOKEN          = 'ZiMedia123';
-	const COMPONENT_ENCODING_ASE_KEY='2cKZtUlRmfNjwQQZIZ0fizdvg5N5cspupSCpjQcHESn';
+	const COMPONENT_APPID          = '';
+	const COMPONENT_APPSECRET      = '';
+	const COMPONENT_TOKEN          = '';
+	const COMPONENT_ENCODING_ASE_KEY='';
 	
 	
 	const MSGTYPE_TEXT 		= 'text';
